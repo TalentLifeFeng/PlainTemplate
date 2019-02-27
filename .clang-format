@@ -1,0 +1,48 @@
+#AlignConsecutiveAssignments : true
+#AlignConsecutiveDeclarations : true
+AccessModifierOffset : -2
+# AlignAfterOpenBracket: Align
+AllowAllParametersOfDeclarationOnNextLine : true
+AlignEscapedNewlines: Left
+AlignOperands:   true
+AlignTrailingComments : true
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine : false
+AllowShortLoopsOnASingleLine: true
+AlwaysBreakAfterReturnType: None
+BinPackArguments : false
+BinPackParameters : false
+BreakBeforeBraces : Attach
+BreakBeforeTernaryOperators: true
+ColumnLimit: 0
+CommentPragmas: '^ *\/\/'
+ConstructorInitializerAllOnOneLineOrOnePerLine: false
+ConstructorInitializerIndentWidth: 2
+ContinuationIndentWidth: 2
+Cpp11BracedListStyle: true
+IndentWidth : 4
+KeepEmptyLinesAtTheStartOfBlocks : false
+MaxEmptyLinesToKeep : 2
+ObjCBlockIndentWidth : 2
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList : false
+PointerAlignment: Right
+PenaltyBreakBeforeFirstCallParameter: 19
+PenaltyBreakComment: 300
+PenaltyBreakString: 1000
+PenaltyBreakFirstLessLess: 120
+PenaltyExcessCharacter: 1000000
+ReflowComments:  true
+SortIncludes: true
+SpaceAfterCStyleCast: false
+SpaceBeforeAssignmentOperators : true
+SpaceBeforeParens : ControlStatements
+SpaceInEmptyParentheses: false
+SpacesBeforeTrailingComments : 1
+SpacesInAngles:  false
+SpacesInContainerLiterals : false
+SpacesInParentheses : false
+SpacesInSquareBrackets: false
+UseTab : Never

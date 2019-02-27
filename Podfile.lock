@@ -1,0 +1,32 @@
+PODS:
+  - BeeHive (1.6.0)
+  - G7_Component (0.0.1):
+    - G7_Foundation (~> 0.1.0)
+    - G7_ModuleInterface (~> 0.1.0)
+  - G7_Foundation (0.1.40)
+  - G7_ModuleInterface (0.1.33):
+    - BeeHive (= 1.6.0)
+
+DEPENDENCIES:
+  - G7_Component (from `../G7_ComponentTemplate`)
+
+SPEC REPOS:
+  "git@git.chinawayltd.com:ios/common/Specs.git":
+    - G7_Foundation
+    - G7_ModuleInterface
+  https://github.com/cocoapods/specs.git:
+    - BeeHive
+
+EXTERNAL SOURCES:
+  G7_Component:
+    :path: "../G7_ComponentTemplate"
+
+SPEC CHECKSUMS:
+  BeeHive: 64c01ddec33b9ef8813701e075eeb732327d0f75
+  G7_Component: 441be903abad560e16f8d0c79f5aa6bdff309a91
+  G7_Foundation: ff95a55bf53ae5ebf45c1cf60ccd0c6fd389ad89
+  G7_ModuleInterface: f798fa1e92310d377c5bc79bc062859672dc0459
+
+PODFILE CHECKSUM: 416391da41387480d3b2c4bf83408de31043ac1d
+
+COCOAPODS: 1.5.2
