@@ -13,7 +13,6 @@
 		085B5940216F314F0000D4B2 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 085B5931216F314F0000D4B2 /* Localizable.strings */; };
 		085B5941216F314F0000D4B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 085B5934216F314F0000D4B2 /* Images.xcassets */; };
 		0872761A21AEDB1800C5D72D /* G7_Component.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 0872761921AEDB1800C5D72D /* G7_Component.podspec */; };
-		CF828C4FF5842AD63EC55F4A /* libPods-G7_ComponentTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BCD2CBB28221B2FF9BD7C72B /* libPods-G7_ComponentTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				085B590D216F30D80000D4B2 /* G7_Component.framework in Frameworks */,
-				CF828C4FF5842AD63EC55F4A /* libPods-G7_ComponentTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
